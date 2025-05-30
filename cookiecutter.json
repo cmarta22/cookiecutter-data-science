@@ -1,7 +1,7 @@
 {
-  "project_name": "Tasa de Mortalidad TDF",
-  "repo_name": "{{ cookiecutter.Tasa_de_Mortalidad_TDF.lower().replace(' ', '_') }}",
+  "project_name": "Diagnostico tardio de VIH TDF",
+  "repo_name": "{{ cookiecutter.Diagnostico_tardio_TDF.lower().replace(' ', '_') }}",
   "author_name": "Marta Cruz",
-  "description": "Predicción de la tasa general de mortalidad en TDF mediante variables climáticas",
+  "description": "Análisis y predicción del diagnóstico tardío de VIH en la provincia de Tierra del Fuego",
   "python_version": "3.10"
 }
